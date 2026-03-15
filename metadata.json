@@ -1,0 +1,7 @@
+{
+  "name": "Corrimão e Guarda-corpo de Inox",
+  "description": "Especialistas em Corrimão e Guarda-corpo de Aço Inox e Vidro Temperado. Segurança, design e sofisticação para seu imóvel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
